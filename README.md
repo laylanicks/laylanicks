@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laylanix
+- 👋 Hi, I’m @laylanicks
 - 👀 I’m interested in traditional vedic astrology and web development
 - 🌱 I’m currently learning HTML, CSS and Javascript with 100Devs
 - 💞️ I’m looking to collaborate on any project that will help me learn and grow as a web developer
